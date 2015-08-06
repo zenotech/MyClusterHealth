@@ -1,0 +1,3 @@
+[submodule "share/stream-scaling"]
+	path = share/stream-scaling
+	url = https://github.com/jappa/stream-scaling.git
